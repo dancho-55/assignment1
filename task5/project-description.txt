@@ -1,0 +1,18 @@
+Computer Builder Website
+
+The Computer Builder Website helps users build their own computers by selecting compatible components.
+ Users can choose parts such as CPU, GPU, RAM, motherboard, and storage. The website also provides pre-built PC options for different needs and budgets. 
+ The target users are gamers, students, professionals, and anyone interested in building a PC.
+
+Pages:
+1. Home
+2. PC Builder
+3. Components
+4. Pre-Built PCs
+5. Contact
+
+Sitemap:
+Home -> PC Builder
+Home -> Components
+Home -> Pre-Built PCs
+Home -> Contact
